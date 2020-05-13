@@ -31,6 +31,31 @@
     </com.google.android.material.appbar.AppBarLayout>
 
     <LinearLayout
+        android:id="@+id/layout_error"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="@dimen/normal_padding"
+        android:visibility="gone"
+        android:orientation="horizontal">
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textSize="@dimen/font_l"
+            android:layout_margin="@dimen/extra_large_padding"
+            android:layout_marginLeft="@dimen/normal_padding"
+            android:text="You seems to be offline, please connect to network and try again" />
+
+
+
+    </LinearLayout>
+
+    <LinearLayout
         android:id="@+id/layout_progress"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

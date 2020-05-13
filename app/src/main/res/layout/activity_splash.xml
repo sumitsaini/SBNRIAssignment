@@ -11,7 +11,6 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:orientation="vertical">
-        A
 
         <com.airbnb.lottie.LottieAnimationView
             android:id="@+id/animation_view"

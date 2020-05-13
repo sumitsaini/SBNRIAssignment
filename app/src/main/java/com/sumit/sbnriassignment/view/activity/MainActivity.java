@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
     private RepoAdapter repoAdapter;
     private int page = 1;
     private LinearLayout layoutProgress;
+    private LinearLayout layoutError;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -57,6 +58,7 @@ public class MainActivity extends AppCompatActivity {
 
         layoutProgress = (LinearLayout) findViewById(R.id.layout_progress);
         recyclerViewRepos = findViewById(R.id.recycler_view_repos);
+        layoutError = findViewById(R.id.layout_error);
     }
 
     /**

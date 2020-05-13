@@ -1,0 +1,37 @@
+<resources>
+
+    <dimen name="normal_padding">4dp</dimen>
+    <dimen name="large_padding">16dp</dimen>
+    <dimen name="extra_large_padding">32dp</dimen>
+    <dimen name="very_extra_large_padding">64dp</dimen>
+
+
+    <dimen name="font_xxs">10sp</dimen>
+    <dimen name="font_xs">12sp</dimen>
+    <dimen name="font_s">14sp</dimen>
+    <dimen name="font_m">16sp</dimen>
+    <dimen name="font_l">18sp</dimen>
+    <dimen name="font_xl">20sp</dimen>
+    <dimen name="font_xxl">24sp</dimen>
+    <dimen name="font_xxxl">30sp</dimen>
+
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_normal">10dp</dimen>
+    <dimen name="medium_padding">12dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_xlarge">18dp</dimen>
+
+    <dimen name="margin_very_small">4dp</dimen>
+    <dimen name="margin_small">4dp</dimen>
+    <dimen name="margin_medium">8dp</dimen>
+    <dimen name="margin_extra_medium">12dp</dimen>
+    <dimen name="margin_large">16dp</dimen>
+    <dimen name="margin_xlarge">20dp</dimen>
+
+
+    <dimen name="btn_height">45dp</dimen>
+    <dimen name="edit_text_height">45dp</dimen>
+
+
+
+</resources>
